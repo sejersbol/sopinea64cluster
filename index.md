@@ -1,4 +1,4 @@
-## Welcome to my SO Pine A64 Cluster Page
+## Welcome to my SOPINE A64 Cluster Page
 
 You can use the [editor on GitHub](https://github.com/sejersbol/sopinea64cluster/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
