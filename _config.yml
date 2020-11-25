@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 
+is_project_page: false
+
 title: My SOPINE A64 Cluster Ventures
 description: Building and running a cluster of SOPINE A64 compute modules on a SOPINE Clusterboard.
