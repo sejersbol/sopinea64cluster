@@ -7,4 +7,4 @@ I have created this page to keep track of my project progress and document my fi
 
 ## Choice of Hardware
 
-As you have probably noticed from the title of this page, I decided to build my cluster from ARM-based single-board computers (SBCs) from [Pine64](https://pine64.com).
+As you have probably noticed from the title of this page, I decided to build my cluster from ARM-based single-board computers (SBCs) from [Pine64](https://pine64.com). It was not obvious to me that the Pine64 modules would provide a viable solution, and at first, I investigated the possibility of using Raspberry Pi's for the cluster.
