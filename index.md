@@ -1,37 +1,5 @@
-## Welcome to my SOPINE A64 Cluster Page
+I have lately (2020) started to look into Kubernetes and also took an online course, and I decided that I wanted to experiment with building a Kubernetes cluster. So I started looking at running a Kubernetes cluster on cloud resources from AWS, Google Cloud, Digital Ocean, or other cloud providers. If you go down that road, you will quickly realize that running a Kubernetes cluster with a few nodes will make you endure a substantial monthly cost. As this would merely be a side project for me, it would annoy me that I had to shut down the cluster to save some dollars every time I had finished experimenting with it.
 
-You can use the [editor on GitHub](https://github.com/sejersbol/sopinea64cluster/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Because of this, I started to look at potential DIY hardware alternatives that I could have running right here in my home office, without worrying about remembering to shut down the cluster after use. I also thought that I might learn a thing or two from building a hardware cluster for Kubernetes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sejersbol/sopinea64cluster/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I have created this page to keep track of my project progress and document my findings along the way. I will update this page as I advance with the project.
