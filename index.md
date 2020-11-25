@@ -3,3 +3,8 @@ I have lately (2020) started to look into Kubernetes and also took an online cou
 Because of this, I started to look at potential DIY hardware alternatives that I could have running right here in my home office, without worrying about remembering to shut down the cluster after use. I also thought that I might learn a thing or two from building a hardware cluster for Kubernetes.
 
 I have created this page to keep track of my project progress and document my findings along the way. I will update this page as I advance with the project.
+
+
+## Choice of Hardware
+
+As you have probably noticed from the title of this page, I decided to build my cluster from ARM-based single-board computers (SBCs) from [Pine64](https://pine64.com).
