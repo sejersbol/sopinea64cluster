@@ -14,3 +14,5 @@ As Ralf Strobel mentions in his post, the Pine A64 SBC has better specs than the
 To summarize, you could buy Raspberry Pi 4's, a switch, power adapters, and build a more potent hobby cluster, but it could cost you more, and you would also have to mingle with more cables and a complex cabinet build. Did I mention the Pine64 Clusterboard has the mini-ITX form factor that makes it easy to install in a cabinet?
 
 I ordered the Pine64 Clusterboard and 7 SOPINE A64 Compute Modules together with the DC Jack Power Supply. It arrived a few weeks later from China.
+
+![The SOPINE Compute Modules](/assets/images/image-2.jpeg)
