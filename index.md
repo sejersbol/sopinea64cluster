@@ -15,4 +15,10 @@ To summarize, you could buy Raspberry Pi 4's, a switch, power adapters, and buil
 
 I ordered the Pine64 Clusterboard and 7 SOPINE A64 Compute Modules together with the DC Jack Power Supply. It arrived a few weeks later from China.
 
+The following photo shows the SOPINE A64 Compute Modules that I received in the mail.
+
 ![The SOPINE Compute Modules](/assets/images/image-2.jpeg)
+
+And the Pine64 Clusterboard without any installed compute modules, power, and battery.
+
+![The Pine64 Clusterboard](/assets/images/image-1.jpeg)
